@@ -47,15 +47,6 @@
       "impactnumber": "1500",
       "location": "kabul",
       "id": "ZikULcZnlxA"
-    },
-    {
-      "title": "Youth Leadership Academy",
-      "imgaddress": "../../public/Picture_4.png",
-      "location": "kabul",
-      "shortDescription": "MDeveloping the next generation of peacebuilders through leadership training and mentorship",
-      "impactnumber": "120099",
-      "impactlabel": "Patients Treated",
-      "id": "1OhDKPQ9Ljo"
     }
   ],
   "blog": [
@@ -85,6 +76,17 @@
       "date": "jun 2, 2026",
       "by": "PJI Team",
       "state": "Update"
+    },
+    {
+      "title": "d",
+      "excerpt": "",
+      "content": "",
+      "coverImage": "",
+      "author": "",
+      "category": "News",
+      "published": false,
+      "date": "May 30, 2026",
+      "id": "wCiPw4hGVxM"
     }
   ],
   "involved": [],
@@ -113,5 +115,6 @@
       "position": "Women's Programs Lead",
       "id": "ds-O3Beo65o"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
