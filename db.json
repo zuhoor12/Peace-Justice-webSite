@@ -1,95 +1,117 @@
 {
-    "project":[
-        {
-            "id":1,
-            "imgaddress" : "../../public/Picture_1.png",
-            "title" :"Education for Every Child",
-            "location" : "Kabul , Afghanistan",
-            "description" :"Bringing quality education to underserved communities across Afghanistan through teacher",
-            "price":2400,
-            "state":"Children Enrolled"
-        },
-        {
-            "id":2,
-            "imgaddress" : "../../public/Picture_1.png",
-            "title" :"Women's Empowerment Initiative",
-            "location" : "Herat , Afghanistan",
-            "description" :"Vocational training and literacy programs empowering Afghan women to build economic independence",
-            "price":950,
-            "state":"Women Empowered"
-        },
-        {
-            "id":3,
-            "imgaddress" : "../../public/Picture_1.png",
-            "title" :"Community Health Program",
-            "location" : "Bamyan , Afghanistan",
-            "description" :"Mobile health clinics bringing essential healthcare to remote communities .",
-            "price":5200,
-            "state":"Patients Treated"
-        },
-        {
-            "id":4,
-            "imgaddress" : "../../public/Picture_1.png",
-            "title" :"Youth Leadership Academy",
-            "location" : "Multiple Cities",
-            "description" :"MDeveloping the next generation of peacebuilders through leadership training and mentorship..",
-            "price":5200,
-            "state":"Patients Treated"
-        }
-    ],
-    "blog" : [
-        {
-            "id":1,
-            "imgaddress": "../../public/Picture_1.png",
-            "title": "Breaking Ground: Our New Education Center in Kabul",
-            "description" : "A new education center in Kabul will serve over 500 students annually with academic and vocational programs.",
-            "date" : "May 26, 2026",
-            "by" : "Ahmad Karimi",
-            "state" : "News"
-        },
-        {
-            "id":1,
-            "imgaddress": "../../public/Picture_2.png",
-            "title": "Breaking Ground: Our New Education Center in Kabul",
-            "description" : "A new education center in Kabul will serve over 500 students annually with academic and vocational programs.",
-            "date" : "May 1, 2026",
-            "by" : "Sara mohammadi",
-            "state" : "story"
-        },
-        {
-            "id":1,
-            "imgaddress": "../../public/Picture_3.png",
-            "title": "Breaking Ground: Our New Education Center in Kabul",
-            "description" : "A new education center in Kabul will serve over 500 students annually with academic and vocational programs.",
-            "date" : "jun 2, 2026",
-            "by" : "PJI Team",
-            "state" : "Update"
-        }
-    ],
-    "involved":[
-
-    ],
-    "userInfo" :{
-        "userName" : "alizuhoor@gmail.com",
-        "pass": "ali12"
+  "project": [
+    {
+      "id": "1",
+      "imgaddress": "../../public/Picture_1.png",
+      "title": "Education for Every Child",
+      "location": "Kabul , Afghanistan",
+      "shortDescription": "Bringing quality education to underserved communities across Afghanistan through teacher",
+      "fullDDescription": "Providing quality education to children in underserved communities across Afghanistan. Our program includes teacher training, curriculum development, and school supply distribution.",
+      "impactNumber": 2400,
+      "impactLabel": "Children Enrolled"
     },
-    "Team":[
-        {
-            "name" : "Ahmad Karimi",
-            "position" : "Executive Director & Co-Founder"
-        },
-        {
-            "name" : "Sara Mohammadi",
-            "position" : "Director of Programs"
-        },
-        {
-            "name" : "Omar Rahmani",
-            "position" : "Head of Communications"
-        },
-        {
-            "name" : "Fatima Noori",
-            "position" : "Women's Programs Lead"
-        }
-    ]
-
+    {
+      "id": "2",
+      "imgaddress": "../../public/Picture_1.png",
+      "title": "Women's Empowerment Initiative",
+      "location": "Herat , Afghanistan",
+      "shortDescription": "Vocational training and literacy programs empowering Afghan women to build economic independence",
+      "fullDescription": "Empowering Afghan women through vocational training, literacy programs, and micro-enterprise support to build economic independence and community leadership.",
+      "impactNumber": 950,
+      "impactLabel": "Women Empowered"
+    },
+    {
+      "id": "3",
+      "imgaddress": "../../public/Picture_1.png",
+      "title": "Community Health Program",
+      "location": "Bamyan , Afghanistan",
+      "shortDescription": "Mobile health clinics bringing essential healthcare to remote communities .",
+      "impactNumber": 5200,
+      "impactLabel": "Patients Treated"
+    },
+    {
+      "id": "4",
+      "imgaddress": "../../public/Picture_4.png",
+      "title": "Youth Leadership Academy",
+      "location": "Multiple Cities",
+      "shortDescription": "MDeveloping the next generation of peacebuilders through leadership training and mentorship..",
+      "impactNumber": 5200,
+      "impactLabel": "Students Trained"
+    },
+    {
+      "title": "ali zuhoor",
+      "shortdes": "Empowering Afghan women through vocational training, literacy programs, and micro-enterprise support to build economic independence and community leadership.",
+      "fulldes": "Empowering Afghan women through vocational training, literacy programs, and micro-enterprise support to build economic independence and community leadership.",
+      "imgaddress": "../../public/Picture_1.png",
+      "impactlabel": "live",
+      "impactnumber": "1500",
+      "location": "kabul",
+      "id": "ZikULcZnlxA"
+    },
+    {
+      "title": "Youth Leadership Academy",
+      "imgaddress": "../../public/Picture_4.png",
+      "location": "kabul",
+      "shortDescription": "MDeveloping the next generation of peacebuilders through leadership training and mentorship",
+      "impactnumber": "120099",
+      "impactlabel": "Patients Treated",
+      "id": "1OhDKPQ9Ljo"
+    }
+  ],
+  "blog": [
+    {
+      "id": "1",
+      "imgaddress": "../../public/Picture_1.png",
+      "title": "Breaking Ground: Our New Education Center in Kabul",
+      "description": "A new education center in Kabul will serve over 500 students annually with academic and vocational programs.",
+      "date": "May 26, 2026",
+      "by": "Ahmad Karimi",
+      "state": "News"
+    },
+    {
+      "id": "1",
+      "imgaddress": "../../public/Picture_2.png",
+      "title": "Breaking Ground: Our New Education Center in Kabul",
+      "description": "A new education center in Kabul will serve over 500 students annually with academic and vocational programs.",
+      "date": "May 1, 2026",
+      "by": "Sara mohammadi",
+      "state": "story"
+    },
+    {
+      "id": "1",
+      "imgaddress": "../../public/Picture_3.png",
+      "title": "Breaking Ground: Our New Education Center in Kabul",
+      "description": "A new education center in Kabul will serve over 500 students annually with academic and vocational programs.",
+      "date": "jun 2, 2026",
+      "by": "PJI Team",
+      "state": "Update"
+    }
+  ],
+  "involved": [],
+  "userInfo": {
+    "userName": "alizuhoor@gmail.com",
+    "pass": "ali12"
+  },
+  "Team": [
+    {
+      "name": "Ahmad Karimi",
+      "position": "Executive Director & Co-Founder",
+      "id": "-JV7xcUJTVA"
+    },
+    {
+      "name": "Sara Mohammadi",
+      "position": "Director of Programs",
+      "id": "dbuBC4ka2O4"
+    },
+    {
+      "name": "Omar Rahmani",
+      "position": "Head of Communications",
+      "id": "4omcsfm-vXo"
+    },
+    {
+      "name": "Fatima Noori",
+      "position": "Women's Programs Lead",
+      "id": "ds-O3Beo65o"
+    }
+  ]
 }

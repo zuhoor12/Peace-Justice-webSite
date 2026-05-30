@@ -12,11 +12,11 @@ function ProjectCart({datacard}){
                     <span>{datacard.location}</span>
                 </div>
                 <h1 className="text-3xl myFont ">{datacard.title}</h1>
-                <p className="text-[14px] pr-4 text-gray-600">{datacard.paragraph}</p>
+                <p className="text-[14px] pr-4 text-gray-600">{datacard.shortDescription}</p>
 
                 <div className="flex border-t items-center  gap-3 pt-4 py-4">
-                    <h1 className="text-3xl myFont">{datacard.price}</h1>
-                    <span className="text-gray-600">{datacard.state}</span>
+                    <h1 className="text-3xl myFont">{datacard.impactNumber}</h1>
+                    <span className="text-gray-600">{datacard.impactLabel}</span>
                 </div>
             </div>
         </div>
